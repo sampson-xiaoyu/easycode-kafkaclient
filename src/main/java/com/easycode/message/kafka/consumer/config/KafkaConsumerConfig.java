@@ -1,8 +1,8 @@
-package com.albot.kkh.message.kafka.consumer.config;
-
-import com.albot.kkh.message.config.Config;
+package com.easycode.message.kafka.consumer.config;
 
 import java.util.Properties;
+
+import com.easycode.message.config.Config;
 
 public class KafkaConsumerConfig extends Config {
 

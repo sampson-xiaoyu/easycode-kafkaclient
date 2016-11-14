@@ -1,4 +1,4 @@
-package com.albot.kkh.message.kafka.consumer;
+package com.easycode.message.kafka.consumer;
 
 import java.util.AbstractMap;
 import java.util.ArrayList;
@@ -11,7 +11,7 @@ import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
 
-import com.albot.kkh.message.config.Config;
+import com.easycode.message.config.Config;
 
 public class KafkaConsumerSupport {
 

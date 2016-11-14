@@ -1,6 +1,6 @@
-package com.albot.kkh.message.kafka.message;
+package com.easycode.message.kafka.message;
 
-import com.albot.kkh.message.TextMessage;
+import com.easycode.message.TextMessage;
 
 public class KafkaTextMessage implements TextMessage {
 

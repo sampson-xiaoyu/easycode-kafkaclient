@@ -1,8 +1,8 @@
-package com.albot.kkh.message.kafka.producer.config;
+package com.easycode.message.kafka.producer.config;
 
 import java.util.Properties;
 
-import com.albot.kkh.message.config.Config;
+import com.easycode.message.config.Config;
 
 public class KafkaProducerConfig extends Config {
 

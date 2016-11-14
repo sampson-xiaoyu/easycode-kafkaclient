@@ -1,4 +1,4 @@
-package com.albot.kkh.message.config;
+package com.easycode.message.config;
 
 import java.util.Properties;
 

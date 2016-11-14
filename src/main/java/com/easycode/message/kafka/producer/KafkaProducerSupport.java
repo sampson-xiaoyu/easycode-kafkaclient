@@ -1,10 +1,10 @@
-package com.albot.kkh.message.kafka.producer;
+package com.easycode.message.kafka.producer;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.Producer;
 import org.apache.kafka.clients.producer.ProducerRecord;
 
-import com.albot.kkh.message.config.Config;
+import com.easycode.message.config.Config;
 
 public class KafkaProducerSupport {
 

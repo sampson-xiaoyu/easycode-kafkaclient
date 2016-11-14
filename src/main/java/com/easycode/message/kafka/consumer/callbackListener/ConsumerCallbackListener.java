@@ -1,4 +1,4 @@
-package com.albot.kkh.message.kafka.consumer.callbackListener;
+package com.easycode.message.kafka.consumer.callbackListener;
 
 import java.util.List;
 import java.util.Map;

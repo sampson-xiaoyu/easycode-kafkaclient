@@ -1,4 +1,4 @@
-package com.albot.kkh.message;
+package com.easycode.message;
 
 public interface Message {
 

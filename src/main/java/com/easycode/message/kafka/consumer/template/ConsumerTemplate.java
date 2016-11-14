@@ -1,10 +1,11 @@
-package com.albot.kkh.message.kafka.consumer.template;
+package com.easycode.message.kafka.consumer.template;
 
 import java.util.List;
 import java.util.Map;
-import com.albot.kkh.message.kafka.consumer.KafkaConsumerSupport;
-import com.albot.kkh.message.kafka.consumer.callbackListener.ConsumerCallbackListener;
-import com.albot.kkh.message.kafka.consumer.config.KafkaConsumerConfig;
+
+import com.easycode.message.kafka.consumer.KafkaConsumerSupport;
+import com.easycode.message.kafka.consumer.callbackListener.ConsumerCallbackListener;
+import com.easycode.message.kafka.consumer.config.KafkaConsumerConfig;
 
 public class ConsumerTemplate {
 	
