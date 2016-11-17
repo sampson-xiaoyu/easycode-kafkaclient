@@ -1,4 +1,4 @@
-package com.easycode.message.kafka.consumer.template;
+package com.easycode.message.kafka.template;
 
 import java.util.List;
 import java.util.Map;
@@ -22,10 +22,10 @@ public class ConsumerTemplate {
 	/**
 	 * 根据不同的groupId及topic构造不同的消费实例
 	 */
-	private void newConsumerInstance(String[] destination, String groupId){
+	private void newConsumerInstance(String[] topic, String groupId){
 		
 		config.setGroupId(groupId);
-		kafkaConsumerSupport = new KafkaConsumerSupport(destination , config);
+		kafkaConsumerSupport = new KafkaConsumerSupport(topic , config);
 		
 	}
 	
