@@ -8,7 +8,7 @@
   </parent>
 	
   <artifactId>easycode-kafkaClient</artifactId>
-  <packaging>jar</packaging>
+  <packaging>jar</packaging> 
   
   <dependencies>
   	
